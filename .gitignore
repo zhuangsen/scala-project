@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
+*.class
+*.log
+
+/scala-learn.iml
+/resources/META-INF/
